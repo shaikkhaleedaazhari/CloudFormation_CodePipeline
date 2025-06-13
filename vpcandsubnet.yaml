@@ -36,7 +36,7 @@ Resources:
       MapPublicIpOnLaunch: true
       Tags:
         - Key: Name
-          Value: "PublicSubnet2-khaleedashaik"
+          Value: "PublicSubnet2-khaleedashaik-sk"
 
   PrivateSubnet1:
     Type: AWS::EC2::Subnet
